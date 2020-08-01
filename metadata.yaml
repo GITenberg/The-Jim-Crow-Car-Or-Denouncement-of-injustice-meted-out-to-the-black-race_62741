@@ -1,5 +1,8 @@
 _repo: The-Jim-Crow-Car-Or-Denouncement-of-injustice-meted-out-to-the-black-race_62741
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62741-h/images/cover.jpg
 creator:
   author:
     agent_name: Coleman, J. C. (John Clay)
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '52097'
     url: http://www.gutenberg.org/2009/agents/52097
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62741#The-Jim-Crow-Car-Or-Denouncement-of-injustice-meted-out-to-the-black-race
 gutenberg_issued: '2020-07-23'
 gutenberg_type: Text
 identifiers:
